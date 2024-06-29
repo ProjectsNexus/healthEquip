@@ -6,11 +6,6 @@ Welcome to the Medical Gear Info App repository! This Android app provides in-de
  - **Frequent Updates:** Keep up with new additions and updates of medical gear.
  - **Offline Use:** Store your favorite gear details for use when not online.
 
-// Snapshot Images
-// Look at these three screenshots:
-
-
-
 ## How to install
 What you'll need
  - An Android gadget running on 5.0 (Lollipop) or an upgraded version
