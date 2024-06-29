@@ -1,0 +1,74 @@
+ [
+    {
+      "id": "1",
+      "name": "Cardiology",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZiCM3dK7iS1Ctd63yPfQG_RakCOklKY4SQ--r3-DDw&s",
+      "attractive_line": "Pioneering innovations in heart care."
+    },
+    {
+      "id": "2",
+      "name": "Diagnostic Equipment",
+      "image_url": "https://example.com/diagnostic_equipment_image.jpghttps://www.rabkindermpath.com/blog/admin/uploads/2022/asian-scientist-working-lab-researchers-are-research-find-results-experiment_laboratory_1668593816.jpg",
+      "attractive_line": "Precision tools for accurate diagnosis."
+    },
+    {
+      "id": "3",
+      "name": "Implantable Devices",
+      "image_url": "https://www.freudenbergmedical.com/ecomaXL/files/gastric_band_July2015_sm.jpg?w=344",
+      "attractive_line": "Revolutionizing healthcare through advanced implants."
+    },
+    {
+      "id": "4",
+      "name": "Emergency Medicine",
+      "image_url": "https://cdn5.vectorstock.com/i/1000x1000/48/59/emergency-medicine-vector-704859.jpg",
+      "attractive_line": "Saving lives when every second counts."
+    },
+    {
+      "id": "5",
+      "name": "Resuscitation Devices",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtxNSlGQuiWbfQ6yi3vCq926CCWM1xx4NxYlNLb9oKQ&s",
+      "attractive_line": "Bringing patients back from the brink."
+    },
+    {
+      "id": "6",
+      "name": "Radiology",
+      "image_url": "https://t3.ftcdn.net/jpg/03/25/17/90/360_F_325179057_gmUlayo0HpMMzwtGFkAOpDLpp7ou27ZZ.jpg",
+      "attractive_line": "Unlocking the secrets of the human body."
+    },
+    {
+      "id": "7",
+      "name": "Respiratory Therapy",
+      "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_mMblyatrVvi7bURlscApOVxp2qhdnmF7iLrzmZaVvTVn8=s900-c-k-c0x00ffffff-no-rj",
+      "attractive_line": "Breathing new life into pulmonary care."
+    },
+    {
+      "id": "8",
+      "name": "Sleep Medicine",
+      "image_url": "https://static01.nyt.com/images/2022/04/12/well/07Well-NL-SleepingPills/07Well-NL-SleepingPills-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "attractive_line": "Restoring restful nights for healthier days."
+    },
+    {
+      "id": "9",
+      "name": "Interventional Devices",
+      "image_url": "https://cdn.open-pr.com/T/4/T411939754_g.jpg",
+      "attractive_line": "Innovative solutions for minimally invasive procedures."
+    },
+    {
+      "id": "10",
+      "name": "Critical Care",
+      "image_url": "https://media.istockphoto.com/id/1288648347/vector/intensive-care-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=UVN4udyb6w3B2PXDOi0CApXnOUltuNRZQR6F_Fscslg=",
+      "attractive_line": "Ensuring critical support for the most vulnerable."
+    },
+    {
+      "id": "11",
+      "name": "Infusion Therapy",
+      "image_url": "https://www.3genconsulting.com/wp-content/uploads/2021/06/home-health-billing-impact-home-infusion-therapy-is-evolving-because-of-the-pandemic.jpg",
+      "attractive_line": "Delivering care directly to the bloodstream."
+    },
+    {
+      "id": "12",
+      "name": "Medical Devices",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKqVfGcc-8zEySonsdTqcvpacYUeUkX2Z4QCjrq56VmQVeYIHg0u4rPOPR9vSFrv6t96I&usqp=CAU",
+      "attractive_line": "Innovative tools shaping the future of medicine."
+    }
+  ]

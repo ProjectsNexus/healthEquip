@@ -1,0 +1,345 @@
+
+[
+      {
+        "id": "1",
+        "name": "Electrocardiogram (ECG) Machine",
+        "size_cm": {
+          "length": 40,
+          "width": 30,
+          "height": 20
+        },
+        "weight": {
+          "value": 5,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://www.cnet.com/a/img/resize/9baba8216cca337f5dca5c3b28ce4ffa07272cf3/hub/2018/09/13/549d629b-4809-4f13-b77a-8995d523c5c3/gettyimages-939280816.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "img2": "https://st2.depositphotos.com/23431362/46213/i/450/depositphotos_462133998-stock-photo-heart-monitor-screen-hospital-room.jpg"
+        },
+        "purposes": ["Monitoring heart function", "Detecting cardiac abnormalities"],
+        "description": {
+          "introduction": "An Electrocardiogram (ECG) Machine is a vital medical device used to record the electrical activity of the heart.",
+          "functionality": "It captures data that helps healthcare professionals diagnose various heart conditions, such as arrhythmias, myocardial infarctions, and heart blocks.",
+          "portability": "Modern ECG machines come in portable designs, allowing for quick and convenient heart monitoring in clinical settings, ambulances, and even at home."
+        },
+        "avg_price": "PKR 100,000 - PKR 500,000",
+        "benefit": "Enables prompt diagnosis and monitoring of heart conditions, aiding in the management of cardiac health.",
+        "uses": ["Diagnosing heart rhythm disorders", "Assessing heart attack damage", "Monitoring cardiac activity during surgery"],
+        "date_of_invention": "1903",
+        "inventor_name": "Willem Einthoven",
+        "Category": "Cardiology",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Electrodes", "Signal amplifier", "Recording device"]
+      },
+      {
+        "id": "2",
+        "name": "Ultrasound Machine",
+        "size_cm": {
+          "length": 120,
+          "width": 60,
+          "height": 100
+        },
+        "weight": {
+          "value": 80,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://5.imimg.com/data5/XU/JF/MY-4124910/ultrasound-machine-500x500-500x500.jpg",
+          "img2": "https://technohealth.com.bd/storage/2023/01/Untitled-design-19-12-1.jpg"
+        },
+        "purposes": ["Imaging internal organs", "Monitoring pregnancy"],
+        "description": {
+          "introduction": "An Ultrasound Machine is a versatile medical imaging device that uses sound waves to create real-time images of the body's internal structures.",
+          "functionality": "It is commonly used for examining organs such as the heart, liver, kidneys, and reproductive organs, as well as for monitoring fetal development during pregnancy.",
+          "portability": "While some ultrasound machines are large and stationary, others are designed to be portable, allowing for bedside imaging and use in remote locations."
+        },
+        "avg_price": "PKR 2,000,000 - PKR 10,000,000",
+        "benefit": "Provides non-invasive imaging for diagnosing and monitoring a wide range of medical conditions, including pregnancy complications and abdominal disorders.",
+        "uses": ["Prenatal screening", "Detecting gallstones", "Guiding needle biopsies"],
+        "date_of_invention": "1958",
+        "inventor_name": "Ian Donald",
+        "Category": "Radiology",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Transducer", "Display screen", "Signal processor"]
+      },
+      {
+        "id": "3",
+        "name": "Defibrillator",
+        "size_cm": {
+          "length": 40,
+          "width": 30,
+          "height": 15
+        },
+        "weight": {
+          "value": 3,
+          "unit": "kg"
+        },
+        "images_url": {
+            "img1": "https://5.imimg.com/data5/SELLER/Default/2023/6/315659699/YM/SU/TB/29087894/philips-defibrillator.jpg",
+            "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePySAdyE7Q8pGE4x8r8vHlIebzv76ko8FHaUSG1Kk3vMxSKqDhtyPJJqgZUC0jL0oboQ&usqp=CAU"
+        },
+        "purposes": ["Restoring normal heart rhythm", "Treating cardiac arrest"],
+        "description": {
+          "introduction": "A Defibrillator is a life-saving medical device used to deliver an electric shock to the heart in cases of cardiac arrest or certain arrhythmias.",
+          "functionality": "It works by depolarizing a critical mass of the heart muscle, allowing normal cardiac rhythm to resume.",
+          "portability": "Modern defibrillators come in various forms, including automated external defibrillators (AEDs) for public use and manual defibrillators used by healthcare professionals."
+        },
+        "avg_price": "PKR 50,000 - PKR 200,000",
+        "benefit": "Critical for restoring heart function in emergency situations, increasing the chances of survival for individuals experiencing sudden cardiac arrest.",
+        "uses": ["Emergency response", "Operating rooms", "Ambulances"],
+        "date_of_invention": "1947",
+        "inventor_name": "Claude Beck",
+        "Category": "Cardiology",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Capacitors", "Battery", "Electrode pads"]
+      },
+      {
+        "id": "4",
+        "name": "Sphygmomanometer (Blood Pressure Monitor)",
+        "size_cm": {
+          "length": 12,
+          "width": 8,
+          "height": 4
+        },
+        "weight": {
+          "value": 0.5,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://healtho.pk/wp-content/uploads/2021/10/Blood-Pressure-Monitor-Manual-Aneroid-Sphygmomanometer-1.jpg",
+          "img2": "https://physiogic.com/wp-content/uploads/2022/07/Sphygmomanometer.jpg"
+        },
+        "purposes": ["Measuring blood pressure", "Monitoring hypertension"],
+        "description": {
+          "introduction": "A Sphygmomanometer, commonly known as a Blood Pressure Monitor, is an essential medical device used to measure blood pressure.",
+          "functionality": "It consists of an inflatable cuff, a pressure gauge, and a stethoscope or electronic sensor to detect blood flow.",
+          "portability": "Blood pressure monitors are available in various formats, including manual, automated, and wrist-worn devices for convenient at-home monitoring."
+        },
+        "avg_price": "PKR 2,000 - PKR 10,000",
+        "benefit": "Enables accurate measurement and monitoring of blood pressure, aiding in the diagnosis and management of hypertension and cardiovascular health.",
+        "uses": ["Primary care settings", "Home monitoring", "Clinical research"],
+        "date_of_invention": "1881",
+        "inventor_name": "Samuel Siegfried Karl Ritter von Basch",
+        "Category": "Cardiology",      
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Inflatable cuff", "Pressure gauge", "Stethoscope"]
+      },
+      {
+        "id": "5",
+        "name": "Ventilator",
+        "size_cm": {
+          "length": 60,
+          "width": 40,
+          "height": 30
+        },
+        "weight": {
+          "value": 10,
+          "unit": "kg"
+        },
+        "images_url": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/31/Servo_I_Ventilator.jpg",
+          "https://5.imimg.com/data5/NJ/SF/MY-6984058/ventilator-fleximag-plus-500x500.jpg"
+        ],
+        "purposes": ["Assisting breathing", "Supporting respiratory function"],
+        "description": {
+          "introduction": "A Ventilator, also known as a mechanical ventilator or respirator, is a critical care medical device that provides mechanical ventilation by moving breathable air into and out of the lungs.",
+          "functionality": "It supports patients who are unable to breathe on their own due to respiratory failure or other medical conditions.",
+          "portability": "Ventilators range from compact portable units for transport or home use to larger, more complex systems used in intensive care units."
+        },
+        "avg_price": "PKR 500,000 - PKR 2,000,000",
+        "benefit": "Essential for supporting patients with respiratory failure, ensuring adequate oxygenation and ventilation in critical care settings.",
+        "uses": ["Intensive care units", "Operating rooms", "Transportation"],
+        "date_of_invention": "1928",
+        "inventor_name": "Philip Drinker and Louis Agassiz Shaw Jr.",
+        "Category": "Critical Care",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Breathing circuit", "Air compressor", "Control panel"]
+      },
+      {
+        "id": "6",
+        "name": "Pulse Oximeter",
+        "size_cm": {
+          "length": 6,
+          "width": 3,
+          "height": 3
+        },
+        "weight": {
+          "value": 0.1,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/1/1112136-1.jpg",
+          "img2": "https://eadn-wc01-9199955.nxedge.io/wp-content/uploads/2021/10/PXL_20220519_140632194-1024x949.jpg"
+        },
+        "purposes": ["Measuring oxygen saturation", "Monitoring pulse rate"],
+        "description": {
+          "introduction": "A Pulse Oximeter is a small, non-invasive medical device used to measure the oxygen saturation level in a patient's blood and monitor pulse rate.",
+          "functionality": "It works by emitting light through the skin and measuring the amount of light absorbed by oxygenated and deoxygenated hemoglobin.",
+          "portability": "Pulse oximeters are portable and widely used in various healthcare settings, including hospitals, clinics, and home care."
+        },
+        "avg_price": "PKR 2,000 - PKR 10,000",
+        "benefit": "Provides quick and accurate assessment of oxygenation status and pulse rate, aiding in the management of respiratory conditions and monitoring patient stability.",
+        "uses": ["Respiratory therapy", "Anesthesia monitoring", "Sports medicine"],
+        "date_of_invention": "1972",
+        "inventor_name": "Takuo Aoyagi",
+        "Category": "Respiratory Therapy",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Light emitter", "Photodetector", "Display screen"]
+      },
+      {
+        "id": "7",
+        "name": "Endoscope",
+        "size_cm": {
+          "length": 5,
+          "width": 300,
+          "height": 0
+        },
+        "weight": {
+          "value": 0.2,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://5.imimg.com/data5/SELLER/Default/2020/11/FE/HH/AY/1833687/endoscope-500x500.jpg",
+          "img2": "https://img.medicalexpo.com/images_me/photo-mg/304194-17086108.jpg"
+        },
+        "purposes": ["Visualizing internal organs", "Performing minimally invasive procedures"],
+        "description": {
+          "introduction": "An Endoscope is a flexible or rigid tube with a light and camera attached, used to visualize the inside of the body for diagnostic or therapeutic purposes.",
+          "functionality": "It allows healthcare professionals to examine areas such as the digestive tract, respiratory system, and urinary tract without the need for invasive surgery.",
+          "portability": "Endoscopes are available in various sizes and configurations, including handheld devices for office-based procedures and sophisticated systems for operating rooms."
+        },
+        "avg_price": "PKR 50,000 - PKR 500,000",
+        "benefit": "Enables minimally invasive exploration and treatment of internal organs, reducing patient discomfort, recovery time, and risk of complications.",
+        "uses": ["Gastrointestinal endoscopy", "Bronchoscopy", "Colonoscopy"],
+        "date_of_invention": "1806",
+        "inventor_name": "Philipp Bozzini",
+        "Category": "Endoscopy",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Light source", "Optical system", "Control mechanism"]
+      },
+      {
+        "id": "8",
+        "name": "Automated External Defibrillator (AED)",
+        "size_cm": {
+          "length": 30,
+          "width": 25,
+          "height": 10
+        },
+        "weight": {
+          "value": 2,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img2": "https://www.researchgate.net/publication/323336872/figure/fig2/AS:596763413053445@1519290893886/Automated-External-Defibrillator-device.png",
+          "img1": "https://upload.wikimedia.org/wikipedia/commons/9/9f/AED_open_cutout.jpg"
+        },
+        "purposes": ["Restoring normal heart rhythm", "Emergency treatment of sudden cardiac arrest"],
+        "description": {
+          "introduction": "An Automated External Defibrillator (AED) is a portable electronic device used to deliver an electric shock to the heart to treat sudden cardiac arrest.",
+          "functionality": "It analyzes the heart's rhythm and prompts the user to administer a shock if necessary, guiding them through the process with audio and visual instructions.",
+          "portability": "AEDs are designed for easy use by laypersons and are commonly found in public places such as airports, schools, and sports arenas."
+        },
+        "avg_price": "PKR 50,000 - PKR 200,000",
+        "benefit": "Allows for immediate intervention in cases of sudden cardiac arrest, increasing the chances of survival before professional medical help arrives.",
+        "uses": ["Public access locations", "Corporate workplaces", "Community settings"],
+        "date_of_invention": "1965",
+        "inventor_name": "Frank Pantridge",
+        "Category": "Emergency Medicine",
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Battery", "Electrode pads", "Control panel"]
+      },
+      {
+        "id": "9",
+        "name": "Infusion Pump",
+        "size_cm": {
+          "length": 20,
+          "width": 15,
+          "height": 10
+        },
+        "weight": {
+          "value": 1,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://www.trivitron.com/uploads/product/medium/15716357135Infusion_&_Syringe_Pump_-_Flogard_Grand.jpg",
+          "img2": "https://image.made-in-china.com/202f0j00EhyzBQHPsNpR/Medical-Equipment-Portable-TCI-Syringe-Infusion-Pump.webp"
+        },
+        "purposes": ["Delivering fluids", "Administering medication"],
+        "description": {
+          "introduction": "An Infusion Pump is a medical device used to deliver fluids, such as medications, nutrients, or fluids for hydration, into a patient's body in a controlled manner.",
+          "functionality": "It precisely regulates the flow rate and volume of the infusion, ensuring accurate delivery according to the patient's needs.",
+          "portability": "Infusion pumps come in various types, including syringe pumps for small-volume infusions and volumetric pumps for larger fluid volumes."
+        },
+        "avg_price": "PKR 20,000 - PKR 100,000",
+        "benefit": "Ensures accurate and controlled administration of fluids and medications, reducing the risk of errors and complications associated with manual infusion methods.",
+        "uses": ["Intravenous therapy", "Chemotherapy", "Parenteral nutrition"],
+        "date_of_invention": "1960",
+        "inventor_name": "Dean Kamen",
+        "Category": "Critical Care", 
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Pumping mechanism", "Flow sensor", "Control interface"]
+      },
+      {
+        "id": "10",
+        "name": "MRI Machine",
+        "size_cm": {
+          "length": 300,
+          "width": 200,
+          "height": 250
+        },
+        "weight": {
+          "value": 5000,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img2": "https://www.kkt-chillersusa.com/wp-content/uploads/2022/07/MRI-Machine-in-Hospital.jpg",
+          "img1": "https://d2jx2rerrg6sh3.cloudfront.net/images/equipments/ImageForEquipment_6641_16811885782053478.jpg"
+        },
+        "purposes": ["Diagnostic imaging", "Research"],
+        "description": {
+          "introduction": "An MRI (Magnetic Resonance Imaging) Machine is a sophisticated medical imaging device that uses a powerful magnetic field and radio waves to produce detailed images of the body's internal structures.",
+          "functionality": "It provides superior soft tissue contrast and is particularly useful for imaging the brain, spine, joints, and soft tissues.",
+          "portability": "MRI machines are large and stationary, typically housed in dedicated imaging facilities within hospitals and clinics."
+        },
+        "avg_price": "PKR 50,000,000 - PKR 200,000,000",
+        "benefit": "Offers unparalleled imaging quality for diagnosing a wide range of medical conditions, including neurological disorders, tumors, and musculoskeletal injuries.",
+        "uses": ["Brain imaging", "Orthopedic assessment", "Oncology"],
+        "date_of_invention": "1977",
+        "inventor_name": "Raymond Damadian",
+        "Category": "Radiology", 
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Superconducting magnets", "Radiofrequency coils", "Gradient coils"]
+      },
+      {
+        "id": "11",
+        "name": "Surgical Microscope",
+        "size_cm": {
+          "length": 100,
+          "width": 50,
+          "height": 80
+        },
+        "weight": {
+          "value": 100,
+          "unit": "kg"
+        },
+        "images_url": {
+          "img1": "https://www.zeiss.com/content/dam/med-hcp/reference-master/product-portfolio/surgical-microscopes/images/zeiss-kinevo-900.jpg",
+          "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpZRnpz5iGe4GwQOrsAhUc0QB6gZtpyfwb3q-a6F9--9nksa2laqQlb8qH0_TZDzfC9I&usqp=CAU"
+        },
+        "purposes": ["Microsurgery", "Precision surgical procedures"],
+        "description": {
+          "introduction": "A Surgical Microscope is an optical instrument designed for use in surgical procedures, providing high magnification and illumination of the operative field.",
+          "functionality": "It enables surgeons to perform intricate procedures with enhanced precision and depth perception, reducing the risk of errors and complications.",
+          "portability": "Surgical microscopes are available in various configurations, including floor-mounted, ceiling-mounted, and portable models for different surgical specialties."
+        },
+        "avg_price": "PKR 500,000 - PKR 5,000,000",
+        "benefit": "Facilitates precise visualization and manipulation of tissues during surgery, improving surgical outcomes and patient safety.",
+        "uses": ["Neurosurgery", "Ophthalmic surgery", "ENT procedures"],
+        "date_of_invention": "1953",
+        "inventor_name": "Carl Zeiss",
+        "Category": "Surgery", 
+        "major_manufacturing_city": "Various cities worldwide",
+        "manufacturing_items": ["Optical lenses", "Illumination system", "Articulating arm"]
+      }
+    ]
+  
