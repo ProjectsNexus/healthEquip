@@ -34,7 +34,7 @@ We always love to get help on the Medical Equipment Info App! Here is what you n
 ## Reach Us
 We are all ears for your questions, ideas, or suggestions. Feel welcome to connect:
 **Email:** Hit us at [help.brightstars@gmail.com](mailto:help.brightstars@gmail.com)
-**GitHub Issues:** Go to our [Issues Page]([https://](https://github.com/ProjectsNexus/healthEquip/issues)
+**GitHub Issues:** Go to our [Issues Page](https://github.com/ProjectsNexus/healthEquip/issues)
 We appreciate you using our Medical Equipment Info App! Our aim is to assist you in discovering the details you need about medical tools.
 
 Just replace the placeholders with your real project stats, pictures, and ways to reach you as you wish.
